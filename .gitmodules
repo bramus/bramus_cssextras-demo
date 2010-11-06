@@ -1,0 +1,3 @@
+[submodule "js/tiny_mce/plugins/bramus_cssextras"]
+	path = js/tiny_mce/plugins/bramus_cssextras
+	url = git://github.com/bramus/bramus_cssextras.git
